@@ -1,0 +1,7 @@
+{
+    "require": {
+        "sekolahprogram/query-builder": "^1.0",
+        "plasticbrain/php-flash-messages": "^1.0",
+        "vlucas/phpdotenv": "^2.5"
+    }
+}

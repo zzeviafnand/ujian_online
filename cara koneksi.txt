@@ -1,0 +1,6 @@
+FAQ
+----
+Apabila Anda developer baru dan tidak menggunakan Packages DotEnv maka diharuskan belajar koneksi dengan
+QueryBuilder langsung di alamat url QueryBuilder -> https://github.com/sekolahprogram/query-builder
+----
+Apabila Anda menggunakan DotEnv maka kamu bisa langsung menggunakan pada file .env pada directory utama

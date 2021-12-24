@@ -1,0 +1,14 @@
+------------------------- SISTEM INFORMASI UJIAN ONLINE -------------------------
+
+RUNNING ------------------------------------------------------------------------
+
+Sistem Ujian Online di bangun dengan menggunakan composer maka ada dua cara menggunakannya?
+1. Menggunakan Composer?
+	Masing masing hal ini lebih baik menggunakan composer
+2. Htdocs Xampp?
+	Untuk menggunakan htdocs maka apabila di akses menjadi localhost/ujianonline ini terdampak apabila file telah direfersh
+	Tim Developer akan belajar tentang hal ini yang disebut dengan SuperGlobals $_SERVER
+	terus bagaimana dengan cara menggunakan xampp tapi tidak seperti itu?
+	-> Hal ini kita extra pada htdocs langsung tanpa akses dengan folder baru jadi aksesnya localhost begitu mestinya
+	Bagaimana dengan data pribadi kami?
+	-> hal ini disarankan dengan di pindahkan semestara

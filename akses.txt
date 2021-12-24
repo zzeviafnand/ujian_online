@@ -1,0 +1,17 @@
+Administator
+->admin
+Staf
+->maharani
+Guru
+->indahlestari (10RPL)
+->dafitpranata (11RPL)
+->silvyarahayu (12RPL)
+->salsafebrianti (10TKJ)
+->syujaafifah (11TKJ)
+->marfiaulfa (12TKJ)
+Proktor
+->rizkameivani
+Siswa
+->1011 s/d 1030 & nis siswa kelas 12RPL (2016 s/d 2019)
+All Password
+->123

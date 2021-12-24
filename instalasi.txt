@@ -1,0 +1,15 @@
+------------------------- SISTEM INFORMASI UJIAN ONLINE -------------------------
+
+INSTALASI ----------------------------------------------------------------------
+View Xampp
+1. copy folder sinis ke xampp/htdocs
+   C:\xampp\htdocs (Jika xampp berada di partisi C)
+   D:\xampp\htdocs (jika xampp berada di partisi D)
+View Composer
+1. diletakan di pada bebas folder dengan menggunakan cmd ke directory folder lalu ketik
+	PHP -S localhost:8080
+	inggat localhost diatas bisa digunakan dengan ip local Lan dengan mengganti misalnya
+	PHP -S 192.168.0.40:8080
+
+2. buka browser, lalu ketik localhost/phpmyadmin di URL bar
+3. pilih new, isikan sistemnilai pada database name

@@ -1,0 +1,35 @@
+------------------------- SISTEM INFORMASI UJIAN ONLINE ------------------------
+
+TENTANG ------------------------------------------------------------------------
+pada sistem ujian online di bangun pada pemograman PHP dengan bantuan 
+Packages
+- QueryBuilder -> https://github.com/sekolahprogram/query-builder
+- DotEnv -> https://github.com/vlucas/phpdotenv
+- PHP Flash Messages -> https://github.com/plasticbrain/PhpFlashMessages
+
+beberapa hal susunan folder umum
+App -> berisikan file umum yang berisi fungsi fungsi tertentu
+Public -> berupa file yaitu css, js, dan plugin
+Resource -> berisi kumpulan data penting
+-> Template
+---> hal ini digunakan untuk semua data template baik header, footer dan hal lainnya
+-----> Untuk menggantikan Copyright bisa diganti pada file footer.php dan file directory utama login.php
+-> Views
+---> Semua data tampilan, add, edit, show, save, update, delete, ada pada folder ini.
+---> sangat berbahaya sekali untuk dilakukan perubahan tampa pengetahuan developer? (untuk pemula).
+Uploads -> semua file yang di upload image, audio, dan video ada di folder ini
+Vendor -> semua data Packages ada di folder ini tepatnya QueryBuilder, DotEnv, PhpFlashMessages
+
+
+Sistem ini dikerjakan oleh kelompok yang beranggotakan :
+	1. Abdul Muttaqin
+	2. Febri Hidayan
+	3. Nadyatul Khariah
+	4. Yusep Sardianto
+
+siswa kelas XII RPL
+
+Sistem ini dibangun dengan menggunakan :
+xampp versi	= 3.2.2
+php versi	= 7.1
+php extension	= PDO
